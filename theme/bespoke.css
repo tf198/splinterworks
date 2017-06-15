@@ -1,0 +1,45 @@
+#content {
+  padding-top: 50px;
+}
+
+DIV.intro-header {
+  background: url("table_underside.jpg") no-repeat center center;
+  background-size: 100%;
+}
+
+DIV.intro-message {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+DIV.intro-message A {
+	color: white;
+}
+
+.section-heading A {
+	color: #333;
+}
+
+DIV.content {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+DIV.banner {
+	background: url('coats_horizontal.jpg') no-repeat top center;
+	background-size: 100%;
+	padding: 60px 0;
+}
+
+DIV.gallery-thumb {
+	display: table-cell;
+	display: inline-grid;
+}
+
+DIV.gallery-thumb IMG {
+	max-width: 150px;
+	max-height: 150px;
+	margin: 20px;
+	border: 1px solid #999;
+	border-radius: 3px;
+}
